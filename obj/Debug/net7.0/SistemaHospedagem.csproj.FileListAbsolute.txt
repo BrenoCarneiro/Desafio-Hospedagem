@@ -1,0 +1,15 @@
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.csproj.AssemblyReference.cache
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.AssemblyInfoInputs.cache
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.AssemblyInfo.cs
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.csproj.CoreCompileInputs.cache
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\bin\Debug\net7.0\SistemaHospedagem.exe
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\bin\Debug\net7.0\SistemaHospedagem.deps.json
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\bin\Debug\net7.0\SistemaHospedagem.runtimeconfig.json
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\bin\Debug\net7.0\SistemaHospedagem.dll
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\bin\Debug\net7.0\SistemaHospedagem.pdb
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.dll
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\obj\Debug\net7.0\refint\SistemaHospedagem.dll
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.pdb
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\obj\Debug\net7.0\SistemaHospedagem.genruntimeconfig.cache
+D:\Users\breno\Workspace\Estudos\Csharp\SistemaHospedagem\SistemaHospedagem\obj\Debug\net7.0\ref\SistemaHospedagem.dll
